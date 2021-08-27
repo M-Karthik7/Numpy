@@ -1,4 +1,6 @@
-numpy is faster than lists.
+Numpy Notes
+
+Numpy is faster than lists.
 computers sees any number in binary fromat
 it stores the int in 4 bytes ex : 5--> 00000000 00000000 00000000 00000101
 list is an built in int type for python it consists of 1) size -- 4 bytes
