@@ -2,10 +2,10 @@ Numpy Notes
 
 Numpy is faster than lists.
 computers sees any number in binary fromat
-it stores the int in 4 bytes ex : 5--> 00000000 00000000 00000000 00000101
+it stores the int in 4 bytes ex : 5--> 00000000 00000000 00000000 00000101  (int32)
 list is an built in int type for python it consists of 1) size -- 4 bytes
                                                        2) reference count -- 8 bytes
-                                                       3) object typye -- 8 bytes
+                                                       3) object type -- 8 bytes
                                                        4) object value -- 8 bytes
 since numpy uses less bytes of memory it is faster than lists.
 
